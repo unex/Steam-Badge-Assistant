@@ -21,4 +21,4 @@ A UserScript based on [Steam Trading Card Bulk Buyer by Dr. McKay](https://bitbu
 ![](https://i.imgur.com/lezvsyk.png)
 
 #### Known Issues:
-Some cards have special characters in them that will call API calls to fail, currently there is a regex that tries to fix them, but who knows how well that works.
+Some cards have special characters in them that cause API calls to fail, currently there is a regex that tries to fix them, but who knows how well that works.
