@@ -14,7 +14,7 @@ A UserScript based on [Steam Trading Card Bulk Buyer by Dr. McKay](https://bitbu
 - Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 - Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
-## [![Install](//i.imgur.com/LflUAni.png)](#)
+## [![Install](https://i.imgur.com/LflUAni.png)](https://github.com/notderw/Steam-Badge-Assistant/raw/master/steam-badge-assistant.user.js)
 
 #### Screenshots:
 ![](https://i.imgur.com/hPmcyUm.png)
