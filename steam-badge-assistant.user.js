@@ -154,8 +154,7 @@
                     card.hashname = hashName[1];
 
                     // This is kinda a temp fix, it checks for escaped unicode and grabs the hash from he market url if true
-                    var re = new RegExp(/\\u([\d\w]{4})/gi);
-                    if(re.test(hashName[1])) card.hashname = decodeURIComponent(url.split('/').slice(-1)[0]);
+                    if(/\\u([\d\w]{4})/gi.test(hashName[1])) card.hashname = decodeURIComponent(url.split('/').slice(-1)[0]);
 
                     return {
                         'country': countryCode[1],
